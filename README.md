@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Presentation</title>
+  <style>
+    h1 {
+      font-size: 2em;
+      color: blue;
+    }
+    p {
+      font-size: 1em;
+      margin-bottom: 1em;
+    }
+    code {
+      font-family: monospace;
+      background-color: #eee;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Presentation</h1>
+  <p>This is my presentation.</p>
+  <p>Here is some code:</p>
+  <code>
+    alert("Hello, world!");
+  </code>
+</body>
+</html>
+
