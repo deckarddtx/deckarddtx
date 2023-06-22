@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <p>This is my presentation.</p>
   <p>Here is some code:</p>
   <code>
-    alert("Hello, world!");
+    alert("I AM DECKARD ");
   </code>
 </body>
 </html>
